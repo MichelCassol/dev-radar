@@ -1,5 +1,5 @@
-<h1 align="center">Dev Radar</h1>
 <h1 align="center">
+    <p> Dev Radar </p>
     <img src="https://img.shields.io/github/last-commit/MichelCassol/dev-radar" alt="last-commit">&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/github/repo-size/MichelCassol/dev-radar" alt="repo-size">&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License">
